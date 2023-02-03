@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
             'name' => 'camilo',
             'Document' => 1000568741,
             'email' => 'camiloamariles1024@gmail.com',
-            'password' => bcrypt('Irenemom41'),
+            'password' => bcrypt('123456789'),
         ]);
     }
 }
